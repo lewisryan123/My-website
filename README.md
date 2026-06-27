@@ -5,10 +5,10 @@
   Ryanlewis.com 
 </h1>
 <p align="center">
-  The second iteration of <a href="https://Ryanlewis.com" target="_blank">Ryanlewis.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
+  The website of <a href="https://my-website-ten-blond-83.vercel.app/" target="_blank">Ryanlewis.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
 </p>
 <p align="center">
-  <img src="src/assets/view.png" width="100%" alt="Ryan-view"/>
+  <img src="src/assets/View.png" width="100%" alt="Ryan-view"/>
 </p>
 
 ## 🛠 set-up
