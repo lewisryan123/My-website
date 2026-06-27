@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
-  gazijarin.com - v2
+  Ryanlewis.com - v2
 </h1>
 <p align="center">
   The second iteration of <a href="https://gazijarin.com" target="_blank">gazijarin.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
