@@ -2,13 +2,13 @@
   <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
-  Ryanlewis.com - v2
+  Ryanlewis.com 
 </h1>
 <p align="center">
-  The second iteration of <a href="https://gazijarin.com" target="_blank">gazijarin.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
+  The second iteration of <a href="https://Ryanlewis.com" target="_blank">Ryanlewis.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
 </p>
 <p align="center">
-  <img src="src/assets/view.png" width="100%" alt="gazi-v2-view"/>
+  <img src="src/assets/view.png" width="100%" alt="Ryan-view"/>
 </p>
 
 ## 🛠 set-up
