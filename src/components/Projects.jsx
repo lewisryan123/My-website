@@ -7,7 +7,7 @@ import ExternalLinks from "./ExternalLinks";
 
 const spotlightProjects = {
   Blob: {
-    title: "live puxxle",
+    title: "live puzzle",
     desc: "An AI-powered hand gesture puzzle game that uses a webcam to detect hand gestures and solve puzzles.",
     techStack: "Javascript + React",
     link: "https://github.com/lewisryan123/live_puzzle",
