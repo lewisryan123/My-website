@@ -7,9 +7,9 @@ import ExternalLinks from "./ExternalLinks";
 
 const spotlightProjects = {
   Blob: {
-    title: "blob",
-    desc: "A Portal 2-inspired 3D puzzle platformer with a split mechanic built in Unity",
-    techStack: "C# (UNITY)",
+    title: "live puxxle",
+    desc: "An AI-powered hand gesture puzzle game that uses a webcam to detect hand gestures and solve puzzles.",
+    techStack: "Javascript + React",
     link: "https://github.com/lewisryan123/live_puzzle",
     image: "/assets/gesture.png",
   },
@@ -58,7 +58,7 @@ const Projects = () => {
   return (
     <div id="projects">
       <div className="section-header ">
-        <span className="section-title">/ software</span>
+        <span className="section-title">/ Projects</span>
         <a
           href="https://github.com/lewisryan123"
           className="explore-link"
