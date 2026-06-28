@@ -181,7 +181,8 @@
   max-width: 500px;
   right: unset !important;
   left: 25% !important;
-  user-select: none;
+  -webkit-user-select: none;
+   user-select: none;
 }
 
 .carousel-caption h3 {
