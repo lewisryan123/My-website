@@ -10,8 +10,8 @@ const spotlightProjects = {
     title: "blob",
     desc: "A Portal 2-inspired 3D puzzle platformer with a split mechanic built in Unity",
     techStack: "C# (UNITY)",
-    link: "https://github.com/gazijarin/Blob",
-    image: "/assets/blob.png",
+    link: "https://github.com/lewisryan123/live_puzzle",
+    image: "/assets/gesture.png",
   },
   "No Man's Land": {
     title: "no man's land",
