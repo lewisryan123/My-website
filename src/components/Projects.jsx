@@ -39,20 +39,7 @@ const spotlightProjects = {
   },
 };
 
-const projects = {
-  "TDSB Homework Management Interface": {
-    desc: "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
-    techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-    link: "https://github.com/gazijarin/TDSBHomeworkManagement",
-    open: "https://tdsb-app.herokuapp.com/",
-  },
-  "EVE A.I.": {
-    desc: "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
-    techStack: "Javascript, HTML / CSS",
-    link: "https://github.com/gazijarin/adamai",
-    open: "https://gazijarin.github.io/AdamAI/",
-  },
-};
+const projects = {};
 
 const Projects = () => {
   return (
